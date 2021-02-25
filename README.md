@@ -1,6 +1,7 @@
 # Maze Maker!
 Enter a size and get a maze! Totally random maze generator with one and only one solution. Prints maze as well as creates an image using PIL.
 
+## Text:
 ```
 ╭───────┬───┬─────┬─┬─┬─────┬───┬───┬───┬───┬─────╮ 
 ├─────╴ ╰─╮ │ ╶─╮ │ │ ╰─╮ ╷ ╵ ╭─┤ ╶─┴─╮ ╵ ╭─╯ ╶─╮ │ 
@@ -30,4 +31,5 @@ Enter a size and get a maze! Totally random maze generator with one and only one
 ╰───┴─┴─┴─┴─┴─┴───┴───────────┴─┴─┴─┴───┴─────┴───╯ 
 ```
 
-![image](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+## Image:
+![image](https://github.com/merlinlikethewizard/Maze/blob/main/testImage.png?raw=true)
