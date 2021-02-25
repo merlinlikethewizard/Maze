@@ -1,5 +1,5 @@
 # Maze Maker!
-Enter a size and get a maze! Totally random maze generator with one and only one solution. Prints maze as well as creates an image using PIL.
+Enter a size and get a maze! Totally random maze generator with one and only one solution. Prints maze as well as creates an image using PIL. Runs in python 2.
 
 ## Text:
 ```
